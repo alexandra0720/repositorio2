@@ -35,4 +35,4 @@ bueonj pies eso no se sabe q poner asi q pnemos letras a boleo  xd ajssjaksjansj
     <body>
 </html>
 ```
-[link] (https://www.fje.edu/ca/jesuites-bellvitge) ("Enlace a la web del cole")
+[link] (https://www.fje.edu/ca/jesuites-bellvitge "Enlace a la web del cole")
