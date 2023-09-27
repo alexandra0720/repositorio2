@@ -42,4 +42,11 @@ bueonj pies eso no se sabe q poner asi q pnemos letras a boleo  xd ajssjaksjansj
 |----------|:----------:|----------:|
 |Col2 es|centrada|$500|
 |Col3 es|Derecha|1500€|
+|Col3 es|Derecha|4€|
+|Final|Hola|300€|
 
+##### Exámen
+
+-[ ] Opción A
+-[X] Opción B
+-[ ] Opción C
